@@ -31,7 +31,7 @@ public class Assignment_2
 		int subRef2= abc.sub(subRef, 2);
 		int sumRef2= abc.sum(subRef2, 2);
 		int divRef= abc.div(sumRef2,2);
-		System.out.println("Result: "+ divRef);
+		System.out.println("Final Result: "+ divRef);
 		
 	}
 	
